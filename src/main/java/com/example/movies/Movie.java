@@ -18,7 +18,7 @@ public class Movie {
     @Id
     private ObjectId id;
 
-    private String imdbID, title, releaseDate, trailerLink, poster;
+    private String imdbId, title, releaseDate, trailerLink, poster;
 
     private List<String> genres;
 
